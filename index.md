@@ -1,6 +1,6 @@
-## VAWorks consultoria em Segurança de Aplicações Web e em Plataformas de Nuvem
+## VAWorks consultoria em Segurança de Aplicações Web e em Projetos de Cloud Computing
 
-A VAWorks é uma empresa de consultoria que atua em duas frentes: A primeira é na área de VA - Vulnerability Assessment e Testes de Invasão, o Pentest. A segunta é na área de projetar infraestruturas em nuvem segura e escaláveis.
+A VAWorks é uma empresa de consultoria que atua em duas frentes: A primeira é na área de VA - Vulnerability Assessment e Testes de Invasão, o Pentest. A segunta é na área de projetos de cloud computing seguros e escaláveis.
 
 ### Support or Contact
 
